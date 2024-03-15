@@ -65,3 +65,17 @@ Komponen: Komponen React yang dapat digunakan kembali yang membentuk antarmuka p
 ![Screenshot](public/assets/01.png)
 
 Contoh perubahan.
+
+### Jawaban Soal 4
+![Screenshot](public/assets/02.png)
+
+Perubahan seperti diatas, program mengalami error karena nama fungsi yang dipanggil berbeda dengan nama fungsi yang dideklarasikan.
+
+### Jawaban Soal 5
+![Screenshot](public/assets/03.png)
+
+Ini Merupakan tampilan menggunakan JSX markup pada fungsi MyPage()
+
+### Jawaban Soal 6
+![Screenshot](public/assets/05.png)
+
